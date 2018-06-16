@@ -1,0 +1,24 @@
+{
+  "name": "qamanage",
+  "version": "1.0.0",
+  "description": "QA Management for google drive",
+  "main": "code.gs",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iepoch/lslapps.git"
+  },
+  "keywords": [
+    "testing",
+    "qa",
+    "management"
+  ],
+  "author": "Stefan Clem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iepoch/lslapps/issues"
+  },
+  "homepage": "https://github.com/iepoch/lslapps#readme"
+}
