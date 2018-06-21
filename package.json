@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/iepoch/lslapps/issues"
   },
-  "homepage": "https://github.com/iepoch/lslapps#readme"
+  "homepage": "https://github.com/iepoch/lslapps#readme",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  }
 }
